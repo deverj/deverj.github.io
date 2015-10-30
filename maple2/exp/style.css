@@ -1,0 +1,16 @@
+body {
+    background-image: url('http://i.imgur.com/Fc4NtOv.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.white {
+    display:inline-block;
+    background-color:black;
+    color:white;
+}
+@media screen and (max-width:1280px) {
+ body{
+	background-image: url('http://i.imgur.com/aHhSxtv.jpg');
+ }
+}
